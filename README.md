@@ -1,4 +1,5 @@
-__Status__ _Incomplete_, _WIP_
+![Status](https://img.shields.io/badge/status-wip-color)
+![Status](https://img.shields.io/badge/status-incomplete-color)
 
 # Katherine Dunham
 
