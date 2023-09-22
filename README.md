@@ -37,7 +37,6 @@ ____
 - _Sources_: Source of materials
 
 ### Cultural Influence
-
 Cultural influence would be about the 'Program Notes', 'Place Inspiration', '??Named Dances in Dances'  
 
 - The ___Program Notes___           : _Tells us the common story being described_
@@ -52,8 +51,9 @@ I realised there are a lot of places listed in the _Program notes_ and the _plac
 
 Now I got interested in connecting these places with _Years Performed_ and _Number of Events Documented_
 
-===
-
+<div style="border-bottom: .15rem solid grey;width: 75%; margin:0rem .2rem 0rem .4rem"></div>
+<br>
+<pre>
 - Of the 278 works, 78 works have a country or region mentioned in the Program Notes and 77 works have a country or region in the Place Inspiration.
 - The maximum number of events documented is 177 over a period of 17 years, from 1939-1962
 - 4 Works were never documented:
@@ -70,10 +70,13 @@ Now I got interested in connecting these places with _Years Performed_ and _Numb
   - 22 Container
   - 9 Show
   - 8 Mix
+</pre>
 
 Because I'm trying to acertain which years were influenced by what countries, I'm eliminating the data without _Years Performed_ and the _Notes Countried_ and _Inspiration Countries_ without values which leaves me with 93 rows of the initial 276.
 
-===
+<div style="border-bottom: .12rem solid grey;width: 75%; float: right;"></div>
+<br>
+<pre>
 
 Looking at the data currently, the _Program Notes_ column contains nan values. Not bad ...
 
@@ -84,8 +87,10 @@ It doesn't make sense that the _Erzulie Moundong_ has 1 Event documented but was
 Sooo ...  
 Q1. Where does she get inspiration from?  
 ... This must have to do with the _Place Inspiration_ and the consequent _Inspiration Countries_
-
-===
+</pre>
+<div style="border-bottom: .12rem solid grey;width: 75%; float: left;"></div>
+<br>
+<pre>
 
 I can conclude that most of her cultural inspiration was taken from _Haiti, United States, Cuba_ and _Brazil_
 
@@ -93,3 +98,4 @@ Now what cultures did she influence ?
 
 The _Named Dances in Dances_ are not _Work_  URGHHHH   
 The next thing is to look at what _Work_ has common _Named Dances in Dances_  in a density plot?
+</pre>
