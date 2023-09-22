@@ -18,23 +18,25 @@ ____
 
 ### Understanding the columns  
 
-- _Work_: The common name of the piece
-- _Also Known As_: Alternative names and variations of the piece
-- _Years Performed_: Years between 1937 - 1962 in which the piece was performed
-- _Number of Events Documented_: Approxiamte number of programs and printed documents referencing the performance
-- _Performers (only for Pieces and Mixed Works)_: Featured performers
-- _Category_: Type of performance
-- _Named Dances in Dances_: If the Category is a "Piece" or "Mixed Work"
-- _Pieces_: If the Category is "Container", "Mixed Work" or "Show" or if the _Category_ is "Dances in Dances"
-- _Mixed Works (Sometimes Piece or Container)_: If the Category is "Container" or "Show" or if the _Category_ is "Dances in Dances" or "Pieces"
-- _Act-Length Containers_: If the Category is "Show" or if the _Category_ is "Mixed Work" or "Pieces"
-- _Named Evening-Length Shows_: If the Category is "Works", "Container" or "Pieces"
-- _Program Notes (Indicative?)_: Represent the common notes that appeared in programs for each performance
-- _Place Inspiration_: Preservation of Dunham's descriptive language in program notes
-- _Composers_: Attribution
-- _Venue_: c -> Concert hall n -> Night club
-- _Notes_: Explanatory notes
-- _Sources_: Source of materials
+<pre>
+- Work: The common name of the piece
+- Also Known As: Alternative names and variations of the piece
+- Years Performed: Years between 1937 - 1962 in which the piece was performed
+- Number of Events Documented: Approxiamte number of programs and printed documents referencing the performance
+- Performers (only for Pieces and Mixed Works): Featured performers
+- Category: Type of performance
+- Named Dances in Dances: If the Category is a "Piece" or "Mixed Work"
+- Pieces: If the Category is "Container", "Mixed Work" or "Show" or if the Category is "Dances in Dances"
+- Mixed Works (Sometimes Piece or Container): If the Category is "Container" or "Show" or if the Category is "Dances in Dances" or "Pieces"
+- Act-Length Containers: If the Category is "Show" or if the Category is "Mixed Work" or "Pieces"
+- Named Evening-Length Shows: If the Category is "Works", "Container" or "Pieces"
+- Program Notes (Indicative?): Represent the common notes that appeared in programs for each performance
+- Place Inspiration: Preservation of Dunham's descriptive language in program notes
+- Composers: Attribution
+- Venue: c -> Concert hall n -> Night club
+- Notes: Explanatory notes
+- Sources: Source of materials
+</pre>
 
 ### Cultural Influence
 Cultural influence would be about the 'Program Notes', 'Place Inspiration', '??Named Dances in Dances'  
